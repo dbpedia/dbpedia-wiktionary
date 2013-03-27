@@ -1,0 +1,843 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wiktionary</sitename>
+    <base>http://en.wiktionary.org/wiki/Wiktionary:Main_Page</base>
+    <generator>MediaWiki 1.21wmf12</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionary</namespace>
+      <namespace key="5" case="case-sensitive">Wiktionary talk</namespace>
+      <namespace key="6" case="case-sensitive">File</namespace>
+      <namespace key="7" case="case-sensitive">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="case-sensitive">Template</namespace>
+      <namespace key="11" case="case-sensitive">Template talk</namespace>
+      <namespace key="12" case="case-sensitive">Help</namespace>
+      <namespace key="13" case="case-sensitive">Help talk</namespace>
+      <namespace key="14" case="case-sensitive">Category</namespace>
+      <namespace key="15" case="case-sensitive">Category talk</namespace>
+      <namespace key="90" case="case-sensitive">Thread</namespace>
+      <namespace key="91" case="case-sensitive">Thread talk</namespace>
+      <namespace key="92" case="case-sensitive">Summary</namespace>
+      <namespace key="93" case="case-sensitive">Summary talk</namespace>
+      <namespace key="100" case="case-sensitive">Appendix</namespace>
+      <namespace key="101" case="case-sensitive">Appendix talk</namespace>
+      <namespace key="102" case="case-sensitive">Concordance</namespace>
+      <namespace key="103" case="case-sensitive">Concordance talk</namespace>
+      <namespace key="104" case="case-sensitive">Index</namespace>
+      <namespace key="105" case="case-sensitive">Index talk</namespace>
+      <namespace key="106" case="case-sensitive">Rhymes</namespace>
+      <namespace key="107" case="case-sensitive">Rhymes talk</namespace>
+      <namespace key="108" case="case-sensitive">Transwiki</namespace>
+      <namespace key="109" case="case-sensitive">Transwiki talk</namespace>
+      <namespace key="110" case="case-sensitive">Wikisaurus</namespace>
+      <namespace key="111" case="case-sensitive">Wikisaurus talk</namespace>
+      <namespace key="114" case="case-sensitive">Citations</namespace>
+      <namespace key="115" case="case-sensitive">Citations talk</namespace>
+      <namespace key="116" case="case-sensitive">Sign gloss</namespace>
+      <namespace key="117" case="case-sensitive">Sign gloss talk</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>house</title>
+    <ns>0</ns>
+    <id>8407</id>
+    <revision>
+      <id>19644081</id>
+      <parentid>19624680</parentid>
+      <timestamp>2013-02-28T05:07:28Z</timestamp>
+      <contributor>
+        <username>Hallpriest9</username>
+        <id>420711</id>
+      </contributor>
+      <comment>/* Noun */ correction</comment>
+      <text xml:space="preserve" bytes="25176">{{also|House}}
+==English==
+
+===Etymology===
+From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs|dwelling, shelter, house|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|hūsan|lang=gem-pro}} (compare {{etyl|fy|-}} {{term|hûs|lang=fy}}, {{etyl|nl|-}} {{term|huis|lang=nl}}, {{etyl|nds|-}} {{term|Huus|lang=nds}}, {{etyl|de|-}} {{term|Haus|lang=de}}, {{etyl|da|-}} {{term|hus|lang=da}}), possibly from {{etyl|ine-pro|en}} {{recons|(s)keus-|lang=ine-pro}}, from *''(s)keu-'' 'to hide'. More at {{l|en|hose}}.
+
+===Pronunciation===
+* {{sense|noun}}
+** {{enPR|hous}}, {{IPA|/haʊs/}}, {{X-SAMPA|/haUs/}}
+** {{audio|en-us-house-noun.ogg|Audio (US)}}
+* {{sense|verb}}
+** {{enPR|houz}}, {{IPA|/haʊz/}}, {{X-SAMPA|/haUz/}}
+** {{audio|en-us-house-verb.ogg|Audio (US)}}
+* {{audio|En-uk-house.ogg|Audio (UK)}}
+* {{rhymes|aʊs|aʊz}}
+* {{homophones|how's}} {{qualifier|verb}}
+
+===Noun===
+[[Image:Niigata NCM Peasant Rice Farmers House.jpg|thumb|right|350 px|The '''house''' of a Japanese rice farmer.]]
+{{en-noun|pl='''[[houses]]''' or (dialectal) '''[[housen]]'''}}
+
+# {{senseid|en|abode}} A structure serving as an [[abode]] of human beings.
+#: ''This is my '''house''' and my family's ancestral home.''
+# The mode of living as if in a house.
+#: ''They set up '''house''' in a posh apartment.''
+# The usual place to find an object or an animal.
+#: ''The photo was put in its little '''house'''.''
+# A structure to protect or store something or someone.
+#: ''The former carriage ''house'' had been made over into a guest '''house'''.''
+# A protective structure on the deck of a ship.
+#: ''A pilot took charge of the wheel '''house''' until the ship was moored.''
+# {{senseid|en|the theatre itself}} A [[theatre]] building, or the audience for a live theatrical or similar performance.
+#: ''After her swan-song, there wasn't a dry eye in the '''house'''.''
+#: ''Is there a doctor in the '''house'''?''
+# {{politics}} A deliberative assembly forming a component of a legislature, or, more rarely, the room or building in which such an assembly normally meets.
+# {{senseid|en|establishment}}An [[establishment]], whether actual, as a pub, or virtual, as a website. Particularly restaurant, casino, or financial or trading company.
+#: ''a bottle of '''house''' wine''
+#: ''You do not need to pay – your meal is on the '''house.'''''
+#: ''the '''house''' edge on roulette is quite low''
+#: ''the '''house''' of Morgan''
+# {{business}} A company or organisation.
+#: ''A small publishing '''house''' would have a contract with an independent fulfillment '''house'''.''
+# A dynasty, a familial descendance, for example, a royal House.
+#: ''The current Queen is from the '''House''' of Windsor.''
+# {{astrology}} One of the twelve divisions of an astrological chart.
+# A [[grouping]] of [[schoolchildren]] for the purposes of competition in sports and other activities.
+#: ''I was a member of Spenser '''house''' when I was at school.''
+# {{senseid|en|genre of music}}[[house music|House music]].
+# {{curling}} The four [[concentric]] circles where points are scored on the [[ice]]
+# An early or alternative name for the game [[bingo]].
+# {{British}} A complete set of numbers in [[bingo]].
+# {{uncountable|US}} An aggregate of characteristics of a house.
+#* {{quote-news|title=Goin' South Affordable is trendy in these suburbs|work=Chicago Tribune|date=Feb 24|year=1990|passage=In comparison with the western suburbs, we felt we could get a lot more '''house''' for the money.}}
+#* {{quote-news|title=DOWNSIZERS LIVE IT UP - BABY BOOMERS WANT SMALLER HOMES WITH LOTS OF...|work=Pittsburgh Post-Gazette|date=Jan 16|year=2005|passage=There's just a huge number of people who are close to retirement and feel they have too much '''house''' on too much property.}}
+#* {{quote-news|title=When Will the Slump End?|work=Newsweek|date=Nov 6|year=2007|passage=Those homeowners who bought too much '''house''', or borrowed against inflated values are now going to be liable for their own poor decisions}}
+# {{rft-sense|proper noun?|lang=en}} {{uncountable}} A [[child]]ren's [[game]] in which the players [[pretend]] to be members of a [[household]].
+#: ''As the babysitter, Emma always acted as the mother whenever the kids demanded to play '''house'''.''
+
+====Synonyms====
+* {{sense|establishment}} [[shop]]
+* {{sense|company or organisation}} [[shop]]
+
+====Derived terms====
+{{rel-top4|Terms derived from ''house'' (noun)}}
+* [[acid house]]
+* [[basket house]]
+* [[birdhouse]]
+* [[boathouse]]
+* [[bring the house down]]
+* [[doghouse]]
+* [[frame house]]
+* [[flophouse]]
+* [[full house]]
+* [[get on like a house on fire]]
+* [[glasshouse]]
+{{rel-mid4}}
+* [[greenhouse]]
+* [[grow house]]
+* [[guesthouse]]
+* [[house arrest]]
+* [[houseboat]]
+* [[housebreaker]]
+* [[housecoat]]
+* [[house detective]]
+* [[household]]
+* [[householder]]
+* [[housekeeper]]
+* [[housekeeping]]
+* [[house leader]]
+{{rel-mid4}}
+* [[house lights]]
+* [[housemaid]]
+* [[house music]]
+* [[house of worship]]
+* [[houseplant]]
+* [[house poor]]
+* [[house-train]]
+* [[house warming]]
+* [[housewife]]
+* [[house wine]]
+* [[housework]]
+* [[housy-housy]]
+* [[lighthouse]]
+{{rel-mid4}}
+* [[lower house]]
+* [[meetinghouse]]
+* [[on the house]]
+* [[play house]]
+* [[playhouse]]
+* [[poorhouse]]
+* [[prisonhouse]]
+* [[publishing house]]
+* [[royal house]]
+* [[safe house]]
+* [[tribal house]]
+* [[upper house]]
+* [[wirehouse]]
+{{rel-bottom}}
+
+====Related terms====
+* [[housing]]
+
+====Translations====
+{{trans-top|abode}}
+* Abau: {{tø|aau|a}}
+* Abkhaz: {{t-|ab|аҩны|tr=ao̩ny|sc=Cyrl}}
+* Adyghe: {{tø|ady|унэ|tr=une}}
+* Afrikaans: {{t+|af|huis}}
+* Ainu: {{tø|ain|チセ|tr=cise|sc=Kana}}
+* Akkadian: {{tø|akk|𒂍|tr=bītu, bētu|sc=Xsux}}
+* Albanian: {{t-|sq|shtëpi}} {{g|sq}}
+* Alviri-Vidari: {{tø|avd|کیه|tr=kiye}}
+* Ama: {{tø|amm|nu}}
+* Amharic: {{t-|am|ቤት|tr=bet|sc=Ethi}}
+* Arabic: {{t+|ar|بيت|m|tr=bayt|alt=بَيْتٌ|sc=Arab}}, {{t+|ar|منزل|m|tr=manzil|sc=Arab}}, {{t+|ar|دار|f|tr=dār|alt=دَارٌ|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|بيت|m|tr=beet|sc=Arab}}
+*: Moroccan Arabic: {{tø|ary|دار|f|tr=dar}}, {{tø|ary|خيمة|f}} {{qualifier|rural term}}
+* Aramaic:
+*: Syriac: {{tø|arc|ܒܝܬܐ|m|tr=baytā’|sc=Syrc}}
+*: Hebrew: {{tø|arc|ביתא|m|tr=baytā’|sc=Hebr}}
+* Armenian: {{t+|hy|տուն|tr=tun}}
+* Aromanian: {{t-|rup|casã|f}}
+* {{trreq|as}}
+* Avar: {{t-|av|рукъ|tr=ruq̇|sc=Cyrl}}
+* Azeri: {{t+|az|ev}}
+* Bakhtiari: {{tø|bqi|حونه|tr=hőwe|sc=fa-Arab}}
+* Baluchi: {{tø|bal|لوگ|tr=log}}, {{tø|bal|گس|tr=gis}}
+* Bashkir: {{tø|ba|өй|tr=øj|sc=Cyrl}}
+* Basque: {{t+|eu|etxe}}
+* Belarusian: {{t+|be|дом|m|tr=dom}}, {{t-|be|хата|f|tr=xáta}}
+* Bengali: {{t+|bn|ঘর|tr=ghôr|sc=Beng}}
+* Berber:
+*: Tashelhit: {{tø|shi|tigmmi|f}}
+* Bikol: {{tø|bik|harong}}
+* Blackfoot: {{tø|bla|naapiooyis}}
+* Borôro: {{tø|bor|bai}}
+* Breton: {{t+|br|ti|m}}
+* Bulgarian: {{t+|bg|къща|f|tr=kəšta}}
+* Burmese: {{t+|my|အိမ်|tr=ein|sc=Mymr}}
+* Catalan: {{t+|ca|casa|f}}
+* Cebuano: {{tø|ceb|balay}}
+* Central Atlas Tamazight: {{tø|tzm|ⵜⵉⴳⵎⵎⵉ|f|tr=tigmmi}}, {{tø|tzm|ⵜⴰⴷⴷⴰⵔⵜ|tr=taddart}}
+* Central Dusun: {{tø|dtp|walai}}
+* Chamicuro: {{tø|ccc|ajkochi}}
+* Chechen: {{tø|ce|цӏенош|tr=ċenoş|sc=Cyrl}}, {{tø|ce|хӏусам|tr=husam|sc=Cyrl}}
+* Cherokee: {{t-|chr|ᎨᏣᏗ|tr=getsadi|sc=Cher}}
+* {{trreq|ny}}
+* Chinese:
+*: Dungan: {{tø|dng|фонзы|tr=fonzy|sc=Cyrl}}
+*: Mandarin: {{t|cmn|房屋|tr=fángwū|sc=Hani}}, {{t|cmn|家|tr=jiā|sc=Hani}}, {{t|cmn|房子|tr=fángzi|sc=Hani}}
+* Choctaw: {{tø|cho|chuka}}
+* Chulym: {{tø|clw|em}}
+* Chuvash: {{unicode|[[ҫурт]] / [[ҫурт|çурт]] (çurt)}} {{s}}, {{unicode|[[ҫурт|ҫуртсем]] / [[ҫурт|çуртсем]] (çurtsem)}} {{p}}, {{tø|cv|кил|tr=kil|sc=Cyrl}}
+* Cornish: {{t-|kw|chi|m}}
+* {{trreq|co}}
+* Cree: {{t-|cr|wikowin|sc=Cans}}
+* Crimean Tatar: {{tø|crh|ev}}
+* Czech: {{t+|cs|dům|m}}
+* Dalmatian: {{tø|dlm|cuosa|f}}
+* Danish: {{t+|da|hus|n}}
+* Dogrib: {{tø|dgr|kǫ̀}}
+* Dutch: {{t+|nl|huis|n}}, {{t-|nl|onderkomen|n}}
+* Eastern Mari: {{tø|mhr|пӧрт}}
+* Erzya: {{tø|myv|кудо|tr=kudo|sc=Cyrl}}
+* Eshtehardi: {{tø|esh|کیه|tr=kiya|sc=fa-Arab}}
+* Esperanto: {{t+|eo|domo}}
+* Estonian: {{t+|et|maja}}, {{t-|et|hoone}}
+* Faroese: {{t-|fo|hús|n}}
+* Fijian: {{t-|fj|vale}}
+* Finnish: {{t+|fi|talo}}
+* French: {{t+|fr|maison|f}}
+* Friulian: {{tø|fur|čhase|f}}
+* Gagauz: {{tø|gag|ev}}
+* Galician: {{t+|gl|casa|f}}
+* Georgian: {{t-|ka|სახლი|tr=saxli|sc=Geor}}
+* German: {{t+|de|Haus|n}}, {{t+|de|Häuser|p}}
+* Gothic: {{tø|got|𐍂𐌰𐌶𐌽|tr=razn|n|sc=Goth}}, {{tø|got|𐌷𐌿𐍃|tr=hūs|n|sc=Goth}}
+* Greek: {{t+|el|σπίτι|n|tr=spíti}}
+*: Ancient: {{unicode|[[οἶκος]]}} (oíkos) {{m}}, {{unicode|[[οἰκία]]}} (oikía) {{f}}
+* Guaraní: {{t-|gn|oga}}, {{t-|gn|ogapy}}, {{t-|gn|róga}}
+* Gujarati: {{t+|gu|ઘર|tr=ghar|sc=Gujr}}
+* Haitian Creole: {{tø|ht|kay}}
+* Hausa: {{t-|ha|'daki}}, {{t+|ha|gida}}, {{t-|ha|soro}}
+* Hawaiian: {{tø|haw|hale}}
+* Hebrew: {{t+|he|בית|m|tr=báyit}}, {{t-|he|בתים|p|tr=batím}}
+* Hiligaynon: {{tø|hil|balay}}
+* Hindi: {{t-|hi|घर|m|tr=ghar}}, {{t-|hi|मकान|m|tr=makān}}, {{t-|hi|गृह|m|tr=gṛh}}
+* Hittite: {{tø|hit|𒂍|tr=É|sc=Xsux}}
+* Hungarian: {{t+|hu|ház}}
+* Icelandic: {{t+|is|hús|n}}, {{t+|is|híbýli|n}}
+* Ido: {{t+|io|domo}}
+* Ilocano: {{tø|ilo|balay}}
+* Indonesian: {{t+|id|rumah}}
+* Interlingua: {{t+|ia|casa}}
+* {{trreq|ie}}
+* Irish: {{t+|ga|teach|m}}, {{t+|ga|tithe|p}}
+* Istro-Romanian: {{tø|ruo|cåsĕ|f}}
+* Italian: {{t+|it|casa|f}}, {{t+|it|casa|p|alt=case}}
+* Japanese: {{t+|ja|家|tr=[[いえ]], ie, [[うち]], uchi|sc=Jpan}}, {{t+|ja|建物|tr=[[たてもの]], tatemono|sc=Jpan}}, {{t+|ja|家屋|tr=kaoku|sc=Jpan}}, {{qualifier|standalone}} {{t-|ja|一戸建て|tr=[[いっこだて]], ikkodate|sc=Jpan}}, {{qualifier|honorific}} {{t-|ja|お宅|tr=おたく, otaku|sc=Jpan}}, {{qualifier|honorific}} {{t-|ja|住まい|tr=おすまい, osumai|alt=お住まい|sc=Jpan}}
+* Javanese: {{t+|jv|omah}}
+* Jèrriais: {{tø|roa-jer|maîson|f}}, {{qualifier|Saint Ouen}} {{tø|roa-jer|maiethon|f}}
+* Kabardian: {{tø|kbd|унэ|tr=una|sc=Cyrl}}
+* Kalenjin: {{tø|kln|kot}}
+* Kalmyk: {{tø|xal|гер|tr=ger|sc=Cyrl}}
+* Kamba: {{tø|kam|mumba}}
+* Kannada: {{t+|kn|ಮನೆ|tr=mane|sc=Knda}}
+* Kapampangan: {{tø|pam|bale}}
+* Karachay-Balkar: {{tø|krc|юй|tr=üj}}
+* Karaim: {{tø|kdr|üj}}
+* {{trreq|ks}}
+* Kashubian: {{t-|csb|dóm}}
+* Kazakh: {{t+|kk|үй|tr=üj|sc=Cyrl}}
+* Ket: {{tø|ket|иңӷусь|tr=iŋġusʹ|sc=Cyrl}}
+* Khakas: {{tø|kjh|тура|tr=tura|sc=Cyrl}}, {{tø|kjh|иб|tr=ib|sc=Cyrl}}
+* Khmer: {{t+|km|ផ្ទះ|tr=p’dtēiəh|sc=Khmr}}
+* Kildin Sami: {{tø|sjd|пэ̄ҏҏт|tr=pēřřt|sc=Cyrl}}
+* Komi: {{tø|kv|керка|tr=kerka|sc=Cyrl}}
+* {{trreq|kg}}
+* Korean: {{t+|ko|집|tr=jip|sc=Kore}}, {{qualifier|honorific}} {{t+|ko|댁|tr=daek|sc=Kore}}
+* Koryak: {{tø|kpy|яяӈа|tr=jajaŋa|sc=Cyrl}}
+* Kumyk: {{tø|kum|уьй|tr=üy|sc=Cyrl}}
+* Kuna: {{tø|cuk|nega}}
+* Kurdish: {{t+|ku|xanî|m}}, {{t-|ku|خانوو|m|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|үй|tr=üj|sc=Cyrl}}
+* Lakota: {{tø|lkt|tipi}}
+* Lao: {{t-|lo|ບ້ານ|tr=bȃːn|sc=Laoo}}
+{{trans-mid}}
+* Latgalian: {{tø|ltg|noms|m}}, {{tø|ltg|sāta|f}}, {{tø|ltg|kuorms|m}}
+* Latin: {{t+|la|domus|f}}, {{t+|la|casa|f}}, {{t-|la|aedis|f|p|alt=aedes}}
+* Latvian: {{t+|lv|māja}}, {{t+|lv|nams|m}}
+* {{trreq|ln}}
+* Lithuanian: {{t+|lt|namas|n}}
+* Low German: {{t+|nds|Huus|n|}}
+* Luganda: {{tø|lg|nyumba}}
+* Luhya: {{tø|luy|enju}}
+* Luiseno: {{tø|lui|kíiča}}
+* Luo: {{tø|luo|ot}}
+* Luxembourgish: {{t+|lb|Haus|n}}
+* Macedonian: {{t-|mk|куќа|f|tr=kúḱa}}
+* Malagasy: {{t+|mg|trano}}
+* Malay: {{t+|ms|rumah}}, {{t+|ms|balai}}
+* Malayalam: {{t+|ml|വീട്|tr=veetu|sc=Mlym}}, {{t+|ml|ഗൃഹം|tr=gruham|sc=Mlym}}
+* Maltese: {{t-|mt|bejt|m}}
+* Maori: {{t-|mi|whare}}
+* {{trreq|mrw}}
+* Mari:
+*: Eastern Mari: {{tø|mhr|пӧрт|tr=pört|sc=Cyrl}}
+* Moksha: {{tø|mdf|куд|tr=kud|sc=Cyrl}}
+* Mongolian: {{t-|mn|байшин|tr=bajšin|sc=Cyrl}}, {{t-|mn|гэр|tr=ger|sc=Cyrl}}
+* Nahuatl: {{t+|nah|calli}}, {{t+|nah|chan}}
+* Nama: {{tø|naq|oms}}
+* Navajo: {{tø|nv|kin}}
+* {{trreq|ne}}
+* Nigerian Pidgin: {{tø|pcm|haus}}
+* Nogai: {{tø|nog|уьй|tr=üy|sc=Cyrl}}
+* Northern Sami: {{tø|se|dállu}}, {{tø|se|viessu}}
+* Norwegian: {{t+|no|hus|n}}
+* Novial: {{tø|nov|hause}}
+* Occitan: {{t+|oc|ostal|m}}, {{t+|oc|casa|f}}
+* Ojibwe: {{tø|oj|waakaa'igan}}, {{tø|oj|waakaa'iganan|p}}
+* Old Church Slavonic: {{tø|cu|домъ|m|tr=domŭ|sc=Cyrs}}
+* Old English: {{t-|ang|hus|n|alt=hūs}}, {{t-|ang|hof|n}}, {{t-|ang|ærn|n}}, {{t-|ang|stoc|n}}
+* Old French: {{tø|fro|meson}}
+* Oriya: {{t+|or|ଘର|tr=ghara|sc=Orya}}
+* {{trreq|om}}
+* Pangasinan: {{tø|pag|abong}}
+* Papiamentu: {{tø|pap|kas}}
+* Pashto: {{t-|ps|كور|m|tr=kor|sc=ps-Arab}}, {{t-|ps|كوټه|f|tr=kotta|sc=ps-Arab}}
+* Persian: {{t+|fa|خانه|tr=xâne|alt=خانِه|sc=fa-Arab}}
+* Phoenician: {{tø|phn|𐤁𐤉𐤕|tr=byt|sc=Phnx}}, {{tø|phn|𐤁𐤕|tr=bt|sc=Phnx}}
+* {{trreq|pjt}}
+* Pohnpeian: {{tø|pon|ihmw}}
+* Polish: {{t+|pl|dom|m}}
+* Portuguese: {{t+|pt|casa|f}}
+* Punic: {{tø|xpu|𐤁𐤕|tr=bt|sc=Phnx}}
+* {{trreq|pa}}
+* Quechua: {{t+|qu|wasi|s}}, {{t-|qu|wasikuna|p}}
+* Rarotongan: {{tø|rar|'are}}
+* Romani: {{tø|rom|kher|m}}
+* Romanian: {{t+|ro|casă|f}}
+* Romansch: {{t-|rm|chasa|f}}
+* Russia Buryat: {{tø|bxr|гэр|tr=ger|sc=Cyrl}}, {{tø|bxr|байшан|tr=bajšan|sc=Cyrl}}
+* Russian: {{t+|ru|дом|m|tr=dom}}
+* Samoan: {{t+|sm|fale}}
+* Sango: {{t-|sg|da bê}}
+* Sanskrit: {{t-|sa|गृह|tr=gṛha|sc=Deva}}
+* Sardinian: {{t-|sc|domo|f}}
+* Scottish Gaelic: {{t+|gd|taigh|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|кућа|f|sc=Cyrl}}
+*: Roman: {{t-|sh|kuća|f}}
+* Shor: {{tø|cjs|эм|tr=em|sc=Cyrl}}
+* Sichuan Yi: {{tø|ii|ꑳ|tr=yi}}
+* {{trreq|sd}}
+* Sinhalese: {{t-|si|ගෙය|tr=geya|sc=Sinh}}, {{t-|si|නිවස|tr=nivasa|sc=Sinh}}
+* Skolt Sami: {{tø|sms|põrtt}}
+* Slovak: {{t-|sk|dom|m}}
+* Slovene: {{t+|sl|hiša|f}}
+* {{trreq|so}}
+* Sorbian:
+*: Lower Sorbian: {{tø|dsb|dom|m}}
+*: Upper Sorbian: {{t-|hsb|dom|m}}
+* Sotho: {{t-|st|ntlo}}
+* Southern Altai: {{tø|alt|ӱй|tr=üy|sc=Cyrl}}
+* Spanish: {{t+|es|casa|f}}
+* Sumerian: {{tø|sux|𒂍|tr=É|sc=Xsux}}
+* Swahili: {{t+|sw|nyumba}} ''sg, {{t-|sw|pl}} (noun 9/10)'', {{t+|sw|nyumba}}
+* Swedish: {{t+|sv|hus|n}}
+* Tagalog: {{t+|tl|bahay}}, {{t-|tl|tahanan}}, {{t-|tl|tirahan}}
+* Tahitian: {{tø|ty|fare}}
+* Tajik: {{t+|tg|хона|tr=xona|sc=Cyrl}}
+* Talysh:
+*: Asalemi: {{tø|tly|که|tr=ka|sc=fa-Arab}}
+* Tamil: {{t+|ta|வீடு|tr=veedu|sc=Taml}}
+* Taos: {{tø|twf|thə́na}}
+* Tatar: {{t+|tt|йорт|tr=yort|sc=Cyrl}}, {{t+|tt|өй|tr=öj|sc=Cyrl}}
+* Telugu: {{t+|te|ఇల్లు|tr=illu|sc=Telu}}
+* Tetum: {{tø|tet|uma}}
+* Thai: {{t+|th|บ้าน|tr=bâan|sc=Thai}}
+* Tibetan: {{t-|bo|ཁང་པ|tr=khang pa|sc=Tibt}}
+* Tigrinya: {{t+|ti|ቤት|tr=bie̯tɨ|sc=Ethi}}
+* Tocharian A: {{tø|xto|waṣt}}
+* Tocharian B: {{tø|txb|ost}}
+* Tofa: {{tø|kim|öh}}
+* Tok Pisin: {{t-|tpi|haus}}
+* Tongan: {{t-|to|fale}}
+* Tswana: {{t-|tn|ntlo}} (9/10)
+* Turkic Khalaj: {{tø|klj|häv}}
+* Turkish: {{t+|tr|ev}}, {{t+|tr|hane}}
+* Turkmen: {{t-|tk|öý}}
+* Tuvaluan: {{tø|tvl|fale}}
+* Tuvan: {{tø|tyv|ӧг|tr=öğ|sc=Cyrl}}, {{tø|tyv|бажың|tr=bajıñ|sc=Cyrl}}
+* Twi: {{t-|tw|fi}}, {{t-|tw|fie}}, {{t-|tw|ofi}}
+* Udmurt: {{tø|udm|корка|tr=korka|sc=Cyrl}}
+* Ugaritic: {{tø|uga|𐎁𐎚|tr=bt|sc=Ugar}}
+* Ukrainian: {{t-|uk|дім|m|tr=dim}}, {{t-|uk|хата|f|tr=xáta|sc=Cyrl}}
+* Urdu: {{t-|ur|گھر|m|tr=ghar|sc=ur-Arab}}
+* Uyghur: {{t+|ug|ئۆي|tr=öy|sc=ug-Arab}}
+* Uzbek: {{t-|uz|hovli}}, {{t+|uz|uy}}
+* Venetian: {{tø|vec|caxa|f}}
+* Veps: {{tø|vep|pert}}
+* Vietnamese: {{t+|vi|nhà}}
+* Volapük: {{t+|vo|dom}}
+* Walloon: {{t+|wa|måjhon|f}}, {{t|wa|måjhone|f}}
+* Waray-Waray: {{tø|war|balay}}
+* Welsh: {{t+|cy|tŷ|m}}, {{t-|cy|annedd|m|f}}
+* West Frisian: {{t+|fy|hûs|n}}
+* {{trreq|xh}}
+* Yakut: {{tø|sah|дьиэ|tr=cie|sc=Cyrl}}
+* Yiddish: {{t+|yi|הויז|n|tr=hoyz}}
+* Yoruba: {{t-|yo|ilé}}
+* Yup'ik: {{tø|esu|ne}}, {{tø|esu|ena}} ''([[absolutive case|absolutive]])''
+* Zulu: {{t+|zu|indlu|c9|c10}}
+{{trans-bottom}}
+
+{{trans-top|archetypal structure of a human abode}}
+* Afrikaans: {{t+|af|huis}}
+* Choctaw: {{tø|cho|chuka}}
+* Finnish: {{t+|fi|talo}}
+* French: {{t+|fr|maison|f}}
+* German: {{t+|de|Haus|m}}
+* Gothic: {{tø|got|𐌷𐌿𐍃|n|tr=hus|sc=Goth}}
+* Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}}
+* Italian: {{t|it|casa|f}}
+* Luxembourgish: {{t+|lb|Haus|n}}
+* Nahuatl: {{t+|nah|calli}}, {{t+|nah|chan}}
+{{trans-mid}}
+* Navajo: {{tø|nv|hooghan}}
+* Norwegian: {{t+|no|hus|n}}
+* Novial: {{tø|nov|hause}}
+* Old English: {{t-|ang|hus|n}}, {{t-|ang|ærn|n}}
+* Old French: {{tø|fro|meson}}
+* Pashto: {{t-|ps|كور|m|tr=kor|sc=ps-Arab}}, {{t-|ps|كوټه|f|tr=kotta|sc=ps-Arab}}
+* Spanish: {{t+|es|casa|f}}, {{t+|es|vivienda|f}}
+* Swedish: {{t+|sv|hus|n}}
+* Telugu: {{t+|te|గృహము|tr=gruhamu|sc=Telu}}
+* Tok Pisin: {{t-|tpi|haus}}
+{{trans-bottom}}
+
+{{trans-top|usual place to find an animal or an object}}
+* Finnish: {{t+|fi|paikka}}
+{{trans-mid}}
+* Turkish: {{qualifier|animals}} {{t+|tr|in}}
+{{trans-bottom}}
+
+{{trans-top|auditorium for a theatre}}
+* Finnish: {{t+|fi|tupa}}
+{{trans-mid}}
+* Russian: {{t+|ru|зал|m|tr=zal}}
+{{trans-bottom}}
+
+{{trans-top|the theatre itself}}
+* Finnish: {{t+|fi|talo}}
+{{trans-mid}}
+* Spanish: {{t+|es|teatro|m}}
+{{trans-bottom}}
+
+{{trans-top|debating chamber for government politicians}}
+* Afrikaans: {{t+|af|huis}}
+* Dutch: {{t|nl|kamer|m|f}}
+* Finnish: {{t+|fi|kamari}}
+* French: {{t+|fr|chambre|f}}
+* Macedonian: {{t-|mk|дом|m|tr=dom}}
+* Norwegian: {{t+|no|ting|n}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|câmara|f}}
+* Romanian: {{t+|ro|cameră}}
+* Russian: {{t+|ru|палата|f|tr=paláta}}
+* Spanish: {{t+|es|Cámara|f}}
+* Swedish: {{t+|sv|hus}}, {{t-|sv|kammare}}
+{{trans-bottom}}
+
+{{trans-top|an establishment}}
+* Faroese: {{t-|fo|hús|n}}
+* Finnish: {{t+|fi|talo}}
+* Greek: {{t+|el|οίκος|m|tr=oíkos|sc=Grek}}
+* Spanish: {{t+|es|casa|f}}
+{{trans-mid}}
+* Swedish: {{t+|sv|hus|n}}
+* Tok Pisin: {{t-|tpi|haus}}
+* Turkish: {{t+|tr|ev}}
+{{trans-bottom}}
+
+{{trans-top|the inner workings, as of a clock}}
+* Finnish: {{t-|fi|koneisto}}
+* Macedonian: {{t-|mk|куќиште|n|tr=kúḱište}}
+{{trans-mid}}
+* Norwegian: {{t+|no|hus|n}}
+* Swedish: {{t+|sv|hus}}
+{{trans-bottom}}
+
+{{trans-top|dynasty, familiar descendance}}
+* Aramaic:
+*: Syriac: {{tø|arc|ܒܝܬܐ|m|tr=baytā’|sc=Syrc}}
+*: Hebrew: {{tø|arc|ביתא|m|tr=baytā’|sc=Hebr}}
+* Czech: {{t+|cs|dům|m}}
+* Dutch: {{t+|nl|huis|n}}
+* Finnish: {{t+|fi|suku}}, {{t-|fi|kuningashuone}}
+* Galician: {{t|gl|casa|f}}
+* German: {{t+|de|Haus|n}}
+* Greek: {{t+|el|οίκος|m|tr=oíkos|sc=Grek}}
+{{trans-mid}}
+* Norwegian: {{t+|no|hus|n}}
+* Pashto: {{t-|ps|كورنۍ|f|tr=koranəi|sc=ps-Arab}}
+* Portuguese: {{t+|pt|casa|f}}
+* Romanian: {{t-|ro|dinastie}}, {{t-|ro|familie dinastică}}
+* Russian: {{t+|ru|дом|m|tr=dom}}
+* Spanish: {{t+|es|casa|f}}
+* Swedish: {{t+|sv|hus}}
+* Turkish: {{t+|tr|hane}}, {{t+|tr|hanedan}}, {{qualifier|suffix to family name}} {{t-|tr|-giller|p}}
+{{trans-bottom}}
+
+{{trans-top|astrology: one of the twelve divisions of an astrological chart}}
+* Czech: {{t+|cs|dům|m}}
+* Finnish: {{t+|fi|huone}}
+* Macedonian: {{t-|mk|куќа|f|tr=kúḱa}}
+{{trans-mid}}
+* Norwegian: {{t-|no|stjernetegn|n}}
+* Portuguese: {{t+|pt|casa|f}}
+* Spanish: {{t+|es|casa|f}}
+{{trans-bottom}}
+
+{{trans-top|grouping of schoolchildren}}
+* Finnish: {{t+|fi|ryhmä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|genre of music|house music}}
+
+{{trans-top|curling: three concentric circles}}
+* Finnish: {{t+|fi|pesä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|early or alternative name for the game bingo}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|bingo: complete set of numbers}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====External links====
+* {{pedialite|house}}
+* {{pedialite|house (astrology)}}
+* {{pedialite|house (disambiguation)}}
+
+===Verb===
+{{en-verb|hous|ing}}
+
+# {{transitive}} To [[keep]] within a structure or container.
+#: ''The car is '''housed''' in the garage.''
+# {{transitive}} To admit to residence; to [[harbor]]/[[harbour]].
+# To take shelter or lodging; to abide; to lodge.
+#* Shakespeare
+#*: You shall not '''house''' with me.
+# {{transitive|astrology}} To dwell within one of the twelve astrological houses.
+#* Dryden
+#*: Where Saturn '''houses'''.
+# {{transitive}} To contain or cover mechanical parts.
+
+====Synonyms====
+* {{sense|keep within a structure or container}} [[store]]
+* {{sense|admit to residence}} [[accommodate]], [[harbor]]/[[harbour]], [[host]], [[put up]]
+* {{sense|contain or enclose mechanical parts}} [[enclose]]
+
+====Translations====
+{{trans-top|keep within a structure or container}}
+* French: {{t+|fr|garer}}, {{t+|fr|loger}}
+* Italian: {{t+|it|collocare}}
+* Macedonian: {{t-|mk|сместува|tr=sméstuva}}
+* Portuguese: {{t+|pt|armazenar}}
+{{trans-mid}}
+* Russian: {{t+|ru|вмещать|tr=vmeščát’}}
+* Spanish: {{t+|es|almacenar}}
+* Swahili: {{t+|sw|nyumba}}
+* Turkish: {{t+|tr|barındırmak}}
+{{trans-bottom}}
+
+{{trans-top|admit to residence}}
+* Catalan: {{t+|ca|allotjar}}
+* Dutch: {{t+|nl|onderbrengen}}
+* French: {{t+|fr|héberger}}, {{t+|fr|abriter}}, {{t+|fr|loger}}
+* German: {{t-|de|unterbringen}}, {{t+|de|beherbergen}}
+* Italian: {{t+|it|alloggiare}}
+{{trans-mid}}
+* Macedonian: {{t-|mk|вдомува|tr=vdómuva}}, {{t-|mk|сместува|tr=sméstuva}}
+* Portuguese: {{t+|pt|alojar}}, {{t+|pt|hospedar}}
+* Russian: {{t+|ru|помещать|tr=pomeščát’}}, {{t+|ru|селить|tr=selít’}}
+* Spanish: {{t+|es|alojar}}, {{t-|es|hospedar}}, {{t-|es|albergar}}
+{{trans-bottom}}
+
+{{trans-top|dwell within one of the twelve astrological houses}}
+* Swahili: {{t+|sw|nyumba}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|contain or enclose mechanical parts}}
+* Spanish: {{t+|es|encajar}}, {{t+|es|envolver}}
+* Swahili: {{t+|sw|nyumba}}
+{{trans-mid}}
+* Turkish: {{t+|tr|barındırmak}}
+{{trans-bottom}}
+
+===Statistics===
+* {{rank|love|far|seemed|182|house|looked|head|called}}
+
+[[Category:English heteronyms]]
+[[Category:en:Games]]
+[[Category:en:History]]
+[[Category:en:Music]]
+
+----
+
+==Czech==
+
+===Pronunciation===
+* {{X-SAMPA|/h\o_use/}}
+
+===Noun===
+{{cs-noun|g=n}}
+
+# [[gosling]]
+
+====Declension====
+{{cs-decl-noun|house|housete|houseti|house|house|houseti|housetem|housata|housat|housatům|housata|housata|housatech|housaty}}
+
+[[Category:cs:Baby animals]]
+[[Category:cs:Birds]]
+
+----
+
+==Dutch==
+
+===Noun===
+{{nl-noun|m|-|-}}
+
+# [[house music]], house
+
+----
+
+==Finnish==
+
+===Pronunciation===
+* {{hyphenation|hou|se}}
+* {{IPA|/ˈhouse(ʔ)/|lang=fi}}
+
+===Noun===
+{{head|fi|noun|uncountable}}
+
+# {{music|lang=fi}} [[house music]], {{l|en|house}}
+
+====Declension====
+{{fi-decl-valo|hous|||e|nopl=1}}
+
+----
+
+==French==
+
+===Noun===
+{{fr-noun-unc|f}}
+
+# [[house music]], [[#English-genre_of_music|house]] {{gloss|genre of music}}
+
+====Synonyms====
+* [[house music#French|house music]]
+
+===Anagrams===
+* [[houes#French|houes]], [[houés#French|houés]]
+
+[[Category:fr:Music genres]]
+
+----
+
+==Norwegian==
+
+===Noun===
+{{head|no|noun|g=g}}
+
+# [[house music]], house
+
+----
+
+==Polish==
+
+===Etymology===
+{{etyl|en|pl}} {{term|house music|lang=en}}
+
+===Pronunciation===
+* {{IPA|/xaws/|lang=pl}}
+
+===Noun===
+{{head|pl|noun|g=m}}
+
+# [[#English|house]], [[house music]]
+
+=====Declension=====
+{{pl-decl-noun-sing
+|house ({{IPA|/xaws/|lang=pl}})
+|house'u ({{IPA|/ˈxawsu/|lang=pl}})
+|house'owi ({{IPA|/xawˈsɔvi/|lang=pl}})
+|house ({{IPA|/xaws/|lang=pl}})
+|house'em ({{IPA|/ˈxawsɛm/|lang=pl}})
+|housie ({{IPA|/ˈxawɕɛ/|lang=pl}})
+|housie ({{IPA|/ˈxawɕɛ/|lang=pl}})
+}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{head|pt|noun|g=m}}
+
+# [[house music]], house
+
+====Synonyms====
+* [[música house]]
+
+----
+
+==Spanish==
+
+===Noun===
+{{es-noun|m|-}}
+
+# [[house music]], house
+
+----
+
+==Swedish==
+
+===Noun===
+{{sv-noun|g=c}}
+
+# [[house music]], house
+
+====Declension====
+{{sv-noun-unc-irreg-c}}
+
+====Synonyms====
+* [[housemusik]], [[house-musik]]
+
+[[Category:200 English basic words]]
+[[Category:sv:Music]]
+
+[[ang:house]]
+[[ar:house]]
+[[ast:house]]
+[[ca:house]]
+[[cs:house]]
+[[cy:house]]
+[[da:house]]
+[[de:house]]
+[[dv:house]]
+[[et:house]]
+[[el:house]]
+[[es:house]]
+[[eo:house]]
+[[eu:house]]
+[[fa:house]]
+[[fr:house]]
+[[fy:house]]
+[[gl:house]]
+[[ko:house]]
+[[hy:house]]
+[[io:house]]
+[[id:house]]
+[[it:house]]
+[[kn:house]]
+[[ka:house]]
+[[kk:house]]
+[[kw:house]]
+[[sw:house]]
+[[ku:house]]
+[[ky:house]]
+[[lo:house]]
+[[lv:house]]
+[[lt:house]]
+[[li:house]]
+[[hu:house]]
+[[mg:house]]
+[[ml:house]]
+[[my:house]]
+[[nah:house]]
+[[fj:house]]
+[[nl:house]]
+[[ja:house]]
+[[no:house]]
+[[oc:house]]
+[[om:house]]
+[[nds:house]]
+[[pl:house]]
+[[pt:house]]
+[[ro:house]]
+[[qu:house]]
+[[ru:house]]
+[[sm:house]]
+[[sq:house]]
+[[si:house]]
+[[simple:house]]
+[[sr:house]]
+[[fi:house]]
+[[sv:house]]
+[[ta:house]]
+[[te:house]]
+[[th:house]]
+[[ti:house]]
+[[tg:house]]
+[[tr:house]]
+[[uk:house]]
+[[vi:house]]
+[[vo:house]]
+[[wa:house]]
+[[zh:house]]</text>
+      <sha1>8lvp7t6ocetg6ras0m0suty9erqc53h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
