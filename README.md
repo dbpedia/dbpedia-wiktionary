@@ -4,20 +4,25 @@ dbpedia-wiktionary
 Precompiled executables, config files and working examples for http://dbpedia.org/Wiktionary
 
 ##Preamble
-The jar file might be a bit outdated. The configs however are recent and up to date. They are included into the git repo here:
+The jar file might be a bit outdated. Currently, we are looking for a good place for the config files. 
+The configs in this repo should be recent and up to date. They will be included into the git repo here:
 https://github.com/dbpedia/extraction-framework/tree/master/wiktionary
-So please push ypur changes to here (Maybe we will refactor )
+So please push your changes to here.
 
 ##Files & Folders
-dbpedia-wiktionary.jar -> executable java file
-config.properties.default -> default config file, please modify it to your needs
-wiktionary-dump -> folder with input files, please download from http://dumps.wikimedia.org/backup-index.html
-output -> folder for the created RDF files
-config -> folder with config files, that configure how RDF triples are extracted
+* dbpedia-wiktionary.jar -> executable java file
+* config.properties.default -> default config file, please modify it to your needs
+* sample-xml-dumps -> folder with example input files
+* config -> folder with config files, that configure how RDF triples are extracted
+
+The DBpedia framework has an automated download mechanism to download dumps from: http://dumps.wikimedia.org/backup-index.html
+Documentation is being moved to the main Githib Wiki: https://github.com/dbpedia/extraction-framework/wiki
 
 ## Working example
 After you checkout, you should be immeadiately able to run a working example:
-<code>java -jar dbpedia-wiktionary-2013-03-27.jar config.properties.example example wiktionaryDump/house-example.xml.bz2 output/file.ttl</code>
+<code>java -jar dbpedia-wiktionary-2013-04-04.jar config.properties.default</code>
+
+This should create output files in the respective folder, e.g. sample-xml-dumps/dewiktionary/20130321/
 
 Note: you can actually test and debug the xml by using just a single page via a special Wiktionary Export function. 
 Just save this XML to the "wiktionaryDump" folder: http://en.wiktionary.org/wiki/Special:Export/house
@@ -25,10 +30,11 @@ Just save this XML to the "wiktionaryDump" folder: http://en.wiktionary.org/wiki
 You can then test and extend it from there. Below are more detailed instructions
 
 
-##Instructions
+##Instructions (outdated!)
+**Note these instructions are more guidelines, we will push documentation here, as soon as we are finished with the main framework**
 ###Step 1: Download the Wiktionary XML dump
 Go to the wikimedia dump archive at http://dumps.wikimedia.org/backup-index.html, search the latest version of the targeted language. 
-Download the article dump file "[...]-pages-articles.xml" and put it into the “wiktionaryDump” folder.
+Download the article dump file "[...]-pages-articles.xml" and put it into  “wiktionaryDump” folder.
 Example with probably outdated dump:
 <code>cd wiktionaryDump
 wget http://dumps.wikimedia.org/dewiktionary/20130321/dewiktionary-20130321-pages-articles.xml.bz2
@@ -39,9 +45,9 @@ Copy the config.properties.default to config.properties and adjust it
 * config.xml //general config for loglevel and language
 * config-xx.xml // most action happens here, this is the language specific 
 ###Step 4: Run it
-Usage: java -jar <xy.jar> <configfile> <language> <dumpFile> <outputFile>
+Usage: java -jar <xy.jar> <configfile> 
 Example:
-<code>java -jar dbpedia-wiktionary-2013-03-27.jar config.properties de wiktionaryDump/dewiktionary-20130321-pages-articles.xml.bz2 output/file.ttl </code>
+<code>java -jar dbpedia-wiktionary-2013-03-27.jar config.properties </code>
 
 
 ##Documentation

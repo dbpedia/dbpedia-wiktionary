@@ -1,0 +1,18 @@
+# started 2013-04-05T06:16:17Z
+<http://wiktionary.dbpedia.org/resource/Dog> <http://purl.org/dc/elements/1.1/creator> <http://de.wiktionary.org/w/index.php?title=Dog&action=history> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.monnet-project.eu/lemon#sense> <http://wiktionary.dbpedia.org/resource/Dog> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.w3.org/2000/01/rdf-schema#label> "Dog"@de .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://de.wiktionary.org/wiki/Dog> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.monnet-project.eu/lemon#LexicalEntry> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wiktionary.dbpedia.org/terms/LexicalEntity> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.monnet-project.eu/lemon#LexicalSense> .
+<http://wiktionary.dbpedia.org/resource/Dog> <http://wiktionary.dbpedia.org/terms/statistics> "7-257" .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://purl.org/dc/elements/1.1/creator> <http://de.wiktionary.org/w/index.php?title=Cat&action=history> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.monnet-project.eu/lemon#sense> <http://wiktionary.dbpedia.org/resource/Cat> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.w3.org/2000/01/rdf-schema#label> "Cat"@de .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://de.wiktionary.org/wiki/Cat> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.monnet-project.eu/lemon#LexicalSense> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.monnet-project.eu/lemon#LexicalEntry> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wiktionary.dbpedia.org/terms/LexicalEntity> .
+<http://wiktionary.dbpedia.org/resource/Cat> <http://wiktionary.dbpedia.org/terms/statistics> "7-248" .
+# completed 2013-04-05T06:16:17Z
