@@ -23,6 +23,8 @@ After you checkout, you should be immeadiately able to run a working example:
 <code>java -jar dbpedia-wiktionary-2013-04-04.jar config.properties.default</code>
 
 This should create output files in the respective folder, e.g. sample-xml-dumps/dewiktionary/20130321/
+So in the config.properties.default "de" is enabled by "languages=en,de,el,fr", which means you can find the output file here:
+sample-xml-dumps/dewiktionary/20130321/dewiktionary-20130321-wiktionary.dbpedia.org.ttl
 
 Note: you can actually test and debug the xml by using just a single page via a special Wiktionary Export function. 
 Just save this XML to the "wiktionaryDump" folder: http://en.wiktionary.org/wiki/Special:Export/house
