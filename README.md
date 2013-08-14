@@ -19,7 +19,11 @@ The DBpedia framework has an automated download mechanism to download dumps from
 Documentation is being moved to the main Githib Wiki: https://github.com/dbpedia/extraction-framework/wiki
 
 ## Working example
-After you checkout, you should be immeadiately able to run a working example:
+After you checkout run the following Git commands to fetch the latest configuration:
+<code>git submodule update --init --recursive</code><br/>
+<code>git submodule foreach git pull</code>
+
+Then you should be immeadiately able to run a working example:
 <code>java -jar dbpedia-wiktionary-2013-04-04.jar config.properties.default</code>
 
 This should create output files in the respective folder, e.g. sample-xml-dumps/dewiktionary/20130321/
