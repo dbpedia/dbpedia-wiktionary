@@ -4,10 +4,10 @@ dbpedia-wiktionary
 Precompiled executables, config files and working examples for http://dbpedia.org/Wiktionary
 
 ##Preamble
-The jar file might be a bit outdated. Currently, we are looking for a good place for the config files. 
-The configs in this repo should be recent and up to date. They will be included into the git repo here:
-https://github.com/dbpedia/extraction-framework/tree/master/wiktionary
-So please push your changes to here.
+The jar file might be a bit outdated but we will periodically update it. 
+The configurations are kept in a [separate repository](https://github.com/dbpedia/dbpedia-wiktionary-configuration) 
+to ease contributions and are linked both from this repo, as well as the [DBpedia extraction framework](https://github.com/dbpedia/extraction-framework/).
+So please push your changes [there](https://github.com/dbpedia/dbpedia-wiktionary-configuration) .
 
 ##Files & Folders
 * dbpedia-wiktionary.jar -> executable java file
@@ -21,7 +21,7 @@ Documentation is being moved to the main Githib Wiki: https://github.com/dbpedia
 ## Working example
 After you checkout run the following Git commands to fetch the latest configuration:
 <code>git submodule update --init --recursive</code><br/>
-<code>git submodule foreach git pull</code>
+<code>git submodule foreach git pull #This can be run periodically to fetch possible configuration updates</code>
 
 Then you should be immeadiately able to run a working example:
 <code>java -jar dbpedia-wiktionary-2013-04-04.jar config.properties.default</code>
