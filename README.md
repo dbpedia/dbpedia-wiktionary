@@ -1,7 +1,7 @@
 dbpedia-wiktionary
 ==================
 
-Precompiled executables, config files and working examples for http://dbpedia.org/Wiktionary
+Precompiled executables, config files and working examples for DBpedia-Wiktionary
 
 ##Preamble
 The jar file might be a bit outdated but we will periodically update it. 
@@ -54,7 +54,3 @@ Copy the config.properties.default to config.properties and adjust it
 Usage: java -jar <xy.jar> <configfile> 
 Example:
 <code>java -jar dbpedia-wiktionary-2013-03-27.jar config.properties </code>
-
-
-##Documentation
-Everything else can be found here: http://dbpedia.org/Wiktionary
